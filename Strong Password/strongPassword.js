@@ -52,5 +52,3 @@ function minimumNumber(n, password) {
   }
   console.log(sum);
 }
-
-minimumNumber(11, "Ab1");
